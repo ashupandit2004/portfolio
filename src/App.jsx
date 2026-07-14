@@ -10,7 +10,7 @@ import Education from "./components/Education/Education";
 import Achievements from "./components/Achievements/Achievements";
 import Skills from "./components/Skills/Skills";
 import Projects from "./components/Projects/Projects";
-import Gallery from "./components/Gallery/Gallery";
+import Gallery from "./components/gallery/Gallery";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import ThemeToggle from "./components/ThemeToggle/ThemeToggle";
