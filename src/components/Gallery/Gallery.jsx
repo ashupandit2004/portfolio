@@ -7,12 +7,7 @@ import photo3 from "./photo3.jpg";
 import photo4 from "./photo4.jpg";
 import photo5 from "./photo5.jpg";
 import photo6 from "./photo6.jpg";
-import photo7 from "./photo7.jpg";
-import photo8 from "./photo8.jpg";
-import photo9 from "./photo9.jpg";
-import photo10 from "./photo10.jpg";
-import photo11 from "./photo11.jpg";
-import photo12 from "./photo12.jpg";
+
 
 
 const images = [
@@ -22,12 +17,7 @@ const images = [
   photo4,
   photo5,
   photo6,
-  photo7,
-  photo8,
-  photo9,
-  photo10,
-  photo11,
-  photo12,
+
 ];
 
 export default function Gallery() {
